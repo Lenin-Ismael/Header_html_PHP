@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dbp>
+    <estudiante>
+        <cedula genero="masculino" matriculado="si" id="6843" esvalida="si">1104062425</cedula>
+        <nombre>Lenin</nombre>
+        <apellido>Quizhpe</apellido>
+        <celular>09942818804</celular>
+        <asignatura>Desarrollo de SWAC</asignatura>
+        <ciudad>Loja</ciudad>
+        <prog_maestria>Maestria Desarrollo en Software</prog_maestria>
+        <fecha>14-octubre-2022</fecha>
+        <titulo>Ingeniero en Mecatronica</titulo>
+    </estudiante>
+    <estudiante>
+        <cedula>1104013188</cedula>
+        <nombre>Wilson</nombre>
+        <apellido>Sanchez</apellido>
+        <celular>0995868164</celular>
+        <asignatura>Desarrollo de SWAC</asignatura>
+        <ciudad>Loja</ciudad>
+        <prog_maestria>Maestria Desarrollo en Software</prog_maestria>
+        <fecha>14-octubre-2022</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante> 
+    <estudiante> 
+        <cedula>1104412216</cedula>
+        <nombre>Galo</nombre>
+        <apellido>Medina</apellido>
+        <celular>0980085747</celular>    
+        <asignatura>Desarrollo de SWAC</asignatura>
+        <ciudad>Loja</ciudad>
+        <prog_maestria>Maestria Desarrollo en Software</prog_maestria>
+        <fecha>14-octubre-2022</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante>
+    <estudiante> 
+        <cedula>1904111164</cedula>
+        <nombre>Maximo</nombre>
+        <apellido>Alvarez</apellido>
+        <celular>0981117176</celular> 
+        <asignatura>Desarrollo de SWAC</asignatura>
+        <ciudad>Loja</ciudad>
+        <prog_maestria>Maestria Desarrollo en Software</prog_maestria>
+        <fecha>14-octubre-2022</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>   
+    </estudiante>  
+    <estudiante> 
+        <cedula>1104372279</cedula>
+        <nombre>Manuel</nombre>
+        <apellido>Armijos</apellido>
+        <celular>0994457974</celular>    
+        <asignatura>Desarrollo de SWAC</asignatura>
+        <ciudad>Loja</ciudad>
+        <prog_maestria>Maestria Desarrollo en Software</prog_maestria>
+        <fecha>14-octubre-2022</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante> 
+    <estudiante> 
+        <cedula>1904111164</cedula>
+        <nombre>Carlos</nombre>
+        <apellido>Perez</apellido>
+        <celular>0981117176</celular>    
+        <asignatura>Desarrollo de SWAC</asignatura>
+        <ciudad>Loja</ciudad>
+        <prog_maestria>Maestria Desarrollo en Software</prog_maestria>
+        <fecha>14-octubre-2022</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante>  
+    <estudiante> 
+        <cedula>1904111164</cedula>
+        <nombre>Maria</nombre>
+        <apellido>Jara</apellido>
+        <celular>0981117176</celular>    
+        <asignatura>Desarrollo de SWAC</asignatura>
+        <ciudad>Loja</ciudad>
+        <prog_maestria>Maestria Desarrollo en Software</prog_maestria>
+        <fecha>14-octubre-2022</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante>
+    <estudiante>
+        <cedula>1104013188</cedula>
+        <nombre>Jose</nombre>
+        <apellido>Sanchez</apellido>
+        <celular>0995868164</celular>
+        <asignatura>Desarrollo de SWAC</asignatura>
+        <ciudad>Loja</ciudad>
+        <prog_maestria>Maestria Desarrollo en Software</prog_maestria>
+        <fecha>14-octubre-2022</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante>   
+</dbp>
